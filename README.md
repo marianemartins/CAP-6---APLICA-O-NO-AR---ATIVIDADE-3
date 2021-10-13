@@ -1,2 +1,4 @@
-# CAP-6---APLICA-O-NO-AR---ATIVIDADE-3
-# CAP-6---APLICA-O-NO-AR---ATIVIDADE-3
+Cenário escolhido: Login 
+
+Clique em login no header para ver a navegação entre páginas:
+
